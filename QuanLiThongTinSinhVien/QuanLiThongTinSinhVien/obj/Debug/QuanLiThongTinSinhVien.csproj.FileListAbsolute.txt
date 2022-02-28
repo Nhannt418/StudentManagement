@@ -1,0 +1,31 @@
+E:\C# learned\quanlithongtinsinhvien\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\bin\Debug\QuanLiThongTinSinhVien.exe.config
+E:\C# learned\quanlithongtinsinhvien\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\bin\Debug\QuanLiThongTinSinhVien.exe
+E:\C# learned\quanlithongtinsinhvien\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\bin\Debug\QuanLiThongTinSinhVien.pdb
+E:\C# learned\quanlithongtinsinhvien\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.csprojAssemblyReference.cache
+E:\C# learned\quanlithongtinsinhvien\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.fQuanLiSinhVien.resources
+E:\C# learned\quanlithongtinsinhvien\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.Properties.Resources.resources
+E:\C# learned\quanlithongtinsinhvien\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.csproj.GenerateResource.cache
+E:\C# learned\quanlithongtinsinhvien\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.csproj.CoreCompileInputs.cache
+E:\C# learned\quanlithongtinsinhvien\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.exe
+E:\C# learned\quanlithongtinsinhvien\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.pdb
+C:\Users\UEF01\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\bin\Debug\QuanLiThongTinSinhVien.exe.config
+C:\Users\UEF01\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\bin\Debug\QuanLiThongTinSinhVien.exe
+C:\Users\UEF01\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\bin\Debug\QuanLiThongTinSinhVien.pdb
+C:\Users\UEF01\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.csprojAssemblyReference.cache
+C:\Users\UEF01\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.fQuanLiSinhVien.resources
+C:\Users\UEF01\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.Properties.Resources.resources
+C:\Users\UEF01\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.csproj.GenerateResource.cache
+C:\Users\UEF01\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\UEF01\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.exe
+C:\Users\UEF01\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.pdb
+C:\Users\ACER\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\bin\Debug\QuanLiThongTinSinhVien.exe.config
+C:\Users\ACER\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\bin\Debug\QuanLiThongTinSinhVien.exe
+C:\Users\ACER\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\bin\Debug\QuanLiThongTinSinhVien.pdb
+C:\Users\ACER\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.fQuanLiSinhVien.resources
+C:\Users\ACER\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.Properties.Resources.resources
+C:\Users\ACER\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.exe
+C:\Users\ACER\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.pdb
+C:\Users\ACER\Downloads\QuanLiThongTinSinhVien\QuanLiThongTinSinhVien\obj\Debug\QuanLiThongTinSinhVien.TimKiemNangCao.resources
